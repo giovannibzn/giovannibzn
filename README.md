@@ -5,14 +5,14 @@
 - 📫 How to reach me through linkedin and email;
 - 😄 Pronouns: giovanni, gio;
 - ⚡ Fun fact: graduated in law, specialist in CFP® investment, passionate about programming;
-
-👋 Oi, eu sou o Giovanni;
-👀 Estou interessado em aprender e compartilhar meus projetos;
-🌱 Atualmente, estou aprendendo o básico de programação com JavaScript, Python, HTML, CSS, HTTP, Linux e me aprofundando em Java;
-💞️ Busco colaborar em projetos de desenvolvimento de software;
-📫 Como me encontrar: LinkedIn e e-mail;
-😄 Pronomes: giovanni, gio;
-⚡ Curiosidade: formado em Direito, especialista em investimentos CFP®, apaixonado por programação.
+  <br></br>
+- 👋 Oi, eu sou o Giovanni;
+- 👀 Estou interessado em aprender e compartilhar meus projetos;
+- 🌱 Atualmente, estou aprendendo o básico de programação com JavaScript, Python, HTML, CSS, HTTP, Linux e me aprofundando em Java;
+- 💞️ Busco colaborar em projetos de desenvolvimento de software;
+- 📫 Como me encontrar: LinkedIn e e-mail;
+- 😄 Pronomes: giovanni, gio;
+- ⚡ Curiosidade: formado em Direito, especialista em investimentos CFP®, apaixonado por programação.
 
 ## Estou aprendendo
 <div>
